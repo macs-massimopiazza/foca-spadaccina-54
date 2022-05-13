@@ -32,6 +32,7 @@ export default {
         { testo: "vogliamo un ad block per boolean", nome: "Angelo" },
         { testo: "Ho avuto un contrattempo, sono entrato per salutare, non posso connettermi… un saluto Massimo e Alessio", nome: "Andrea" },
         { testo: "✨SCUSA GIANLUCAH, POSSO FARTI UNA DOMANDAA_A_A?✨", nome: "Noi sappiamo chi" },
+        { testo: "✨ vi vogliamo bene, dai che è venerdì, stasera si sboccia, progetto finale senza di noi è come mangiare la minestra con la forchetta. 130 martin garrix ✨", nome: "Giusteppe Michelangelo Marco Alberto" },
       ]
     }
   }
